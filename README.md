@@ -41,8 +41,8 @@ You can download the data from the study described in the paper below.
 
 This folder contains five different files.
 
-1.  [Audiogram-data.xlsx](Audiogram-data.csv)
-2.  [REAR-data.xlsx](REAR-data.csv)
+1.  [Audiogram-data.csv](Audiogram-data.csv)
+2.  [REAR-data.csv](REAR-data.csv)
 3.  [Comparison-data.csv](Comparison-data.csv)
 4.  [Borda-scores.csv](Borda-scores.csv)
 5.  [Presets.csv](Presets.csv)
